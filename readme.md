@@ -12,9 +12,11 @@ https://www.bitzconnect.com/
 
 ## Xfltd
 
-备用机场，可买个10元120G的，防Bitz Net超流量或失联后应急
+备用机场，可买个10元包120G的，防Bitz Net超流量或失联后应急
 
-我买了个7元/月的，用于下载镜像或大模型
+我买的7元/150G/月的，用于下载镜像或大模型
+
+速度一般，实测没有Bitz Net稳定
 
 https://xfltd.org
 
